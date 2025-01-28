@@ -14,3 +14,5 @@ A simple currency converter application built with React. This app allows users 
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling the application.
 - **Custom Hooks**: For managing exchange rate data.
+
+## [Open the Currency Converter](https://currency-converter-six-hazel.vercel.app/)

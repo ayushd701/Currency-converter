@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple currency converter application built with React. This app allows users to convert currencies using a custom hook and reusable input components.
+A simple currency converter frontend-only application built with React. This app allows users to convert currencies using a custom hook and reusable input components.
 
 ## Features
 
